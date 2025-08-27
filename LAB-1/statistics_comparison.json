@@ -1,0 +1,22 @@
+{
+  "tokenized": {
+    "sentences": 17461,
+    "words": 304777,
+    "characters": 1441349,
+    "avg_sentence_length": 17.45,
+    "avg_word_length": 3.84,
+    "ttr": 0.0893,
+    "vocab_size": 27217,
+    "documents": 5000
+  },
+  "raw": {
+    "sentences": 17461,
+    "words": 286699,
+    "characters": 1441349,
+    "avg_sentence_length": 16.42,
+    "avg_word_length": 4.09,
+    "ttr": 0.1111,
+    "vocab_size": 31847,
+    "documents": 5000
+  }
+}
